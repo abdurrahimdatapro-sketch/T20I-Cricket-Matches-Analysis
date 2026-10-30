@@ -64,8 +64,6 @@ This project explores the following questions:
 
 ## Key Findings
 
-## Key Findings
-
 Based on the analysis of 122 T20I matches played in 2024:
 
 ### 1. Team Performance
