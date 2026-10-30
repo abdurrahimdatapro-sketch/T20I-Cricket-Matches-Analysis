@@ -37,6 +37,24 @@ This project explores the following questions:
 
 ## SQL Skills Demonstrated
 
+## SQL Analysis Screenshots
+
+### 1. Team Performance Analysis
+Analyzed the number of matches played, wins, and win percentages for each team in 2024.
+
+![Team Performance](screenshots/01_Team_Performance.PNG)
+
+### 2. Most Successful Team at Each Ground
+Identified the most successful team at each venue using CTEs and the RANK() window function.
+
+![Most Successful Team by Ground](screenshots/02_Most_Successful_Team_By_Ground.PNG)
+
+### 3. England vs Australia – Head-to-Head Analysis
+Compared match results and winning records between England and Australia.
+
+![England vs Australia Head-to-Head](screenshots/03_England_vs_Australia_Head_to_Head.PNG)
+
+
 - SELECT, WHERE, GROUP BY, ORDER BY
 - Aggregate Functions: COUNT(), SUM(), AVG(), MAX()
 - CASE Statements
