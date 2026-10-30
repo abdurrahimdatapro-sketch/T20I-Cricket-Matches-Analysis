@@ -10,8 +10,8 @@ The analysis focuses on answering practical cricket-related business questions a
 
 # Project Files
 
-[View All SQL Queries](sql/SQLQuery3.sql)
-[Download T20I Dataset](data/T20I.csv)
+- [View All SQL Queries](sql/SQLQuery3.sql)
+- [Download T20I Dataset](data/T20I.csv)
 
 ## Tools & Technologies
 
