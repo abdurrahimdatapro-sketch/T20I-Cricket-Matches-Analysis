@@ -8,6 +8,11 @@ The objective is to explore team performance, match outcomes, winning margins, h
 
 The analysis focuses on answering practical cricket-related business questions and identifying meaningful insights from historical match data.
 
+# Project Files
+
+[View All SQL Queries](sql/SQLQuery3.sql)
+[Download T20I Dataset](data/T20I.csv)
+
 ## Tools & Technologies
 
 - Microsoft SQL Server
